@@ -16,6 +16,24 @@
 - NULL - Empty variable
 - Resource - A special variable that holds a resource
 */
+$MyName= 'Dhiyaa AL-Nadabi';
+$age = 26;
+$cgpa = 3.35;
+
+$IsEmp = true;
+
+$langs = ['c#', 'JS', 'Python', 'PHP'];
+
+//$user = new userInformation();
+$FirstName = 'Dhiyaa';
+$LastName = 'AL-Nadabi';
+$Email = 'alnadabidhiyaa@gmail.com';
+$age = 26;
+
+
+echo 'My name is   '.$FirstName.'   '.$LastName.'  . I\'m  '. $age.'   years old.';
+
+
 
 /* --------- Variable Rules --------- */
 /*
